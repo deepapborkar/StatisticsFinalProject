@@ -4,9 +4,9 @@ author:
 - Farwa Bhatti
 - Deepa Borkar
 - Justin Hsia
-date: "\today{}"
+date: "November 20, 2019"
 output:
-  word_document: default
+  github_document: default
   pdf_document: default
 subtitle: An analysis of dataset of crime statistics for a selection of counties in
   North Carolina
@@ -87,7 +87,7 @@ newC = C[1:91,]
 class(newC$prbconv)
 
 # Convert prbconv to a numerical vector
-newC$prbconv = as.numeric(levels(newC$prbconv)[newC$prbconv])
+newC$prbconv = as.numeric(newC$prbconv)
 ```
 
 \  
