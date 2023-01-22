@@ -1,9 +1,9 @@
 Lab 3: Linear Regression
 ================
-Farwa Bhatti
-Deepa Borkar
-Justin Hsia
-November 20, 2019
+Farwa Bhatti /
+Deepa Borkar /
+Justin Hsia /
+November 20, 2019 
 
 ## 1. Introduction
 
